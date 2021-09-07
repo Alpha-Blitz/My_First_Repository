@@ -25,6 +25,9 @@ Here on I am gonna try out all the markdown options I know
         1. This is ordered
         + This is unordered
   - [Link](https://en.wikipedia.org "Wikipedia")
+  - Image
+  <img src = "https://user-images.githubusercontent.com/85517636/132380771-ba94f1cb-e0d3-455c-8406-c13dd54a2428.png" width="500">
+
 </details>
 
 ---
