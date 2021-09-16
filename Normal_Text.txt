@@ -5,3 +5,5 @@ I am writing a normal text..
 This is my first commit from MS VSCode
 
 Cool. Another try.
+
+Now I am doing this again
